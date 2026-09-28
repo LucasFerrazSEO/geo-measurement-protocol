@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this protocol, please cite it using the metadata below, including the version you used."
+title: "GEO Measurement Protocol"
+type: dataset
+abstract: "An open, reproducible protocol for measuring whether a brand or URL is mentioned, recommended, cited as a source or linked by AI answer surfaces (Google AI Mode, Google AI Overviews, Gemini, Perplexity, ChatGPT and Claude), with prompt set design, session neutralization, three rounds per prompt per surface, refusal handling and explicit metric formulas."
+authors:
+  - family-names: Ferraz
+    given-names: Lucas
+    website: "https://lucasferraz.com"
+version: 1.0.0
+date-released: 2026-09-28
+license: CC-BY-4.0
+repository-code: "https://github.com/LucasFerrazSEO/geo-measurement-protocol"
+url: "https://github.com/LucasFerrazSEO/geo-measurement-protocol"
+keywords:
+  - generative engine optimization
+  - GEO
+  - AI search
+  - citation measurement
+  - share of voice
+  - measurement protocol
+preferred-citation:
+  type: report
+  title: "GEO Measurement Protocol"
+  authors:
+    - family-names: Ferraz
+      given-names: Lucas
+      website: "https://lucasferraz.com"
+  version: 1.0.0
+  year: 2026
+  date-published: 2026-09-28
+  url: "https://github.com/LucasFerrazSEO/geo-measurement-protocol"
+  license: CC-BY-4.0
